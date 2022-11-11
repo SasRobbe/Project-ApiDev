@@ -3,9 +3,9 @@
 * ### gekozen thema
   > Ik heb ervoor gekozen om een API te schrijven rond Spotify®. Muziek is een van mijn hobbies waar ik enorm veel rust in kan vinden. Hierdoor leek het me dus een leuk idee om hier een API rond te schrijven. Ik heb 2 GET's en 1 POST aangemaakt.
 
-  > De eerste GET zorgt ervoor dat er een willekeurige songs wordt gekozen uit een lijst met songs, artists en hun     bijhorende platylist. 
-  > De 2e get zorgt aan de hand van een query parameter dat alle songs en artists van die playlist getoont worden in een lijst
-  > Ten slotte is er nog een POST. Deze zorgt ervoor dat je zelf nog songs kan toevoegen aan een playlist.
+  > De eerste GET zorgt ervoor dat er een willekeurige songs wordt gekozen uit een lijst met songs, artists en hun bijhorende platylist.<br />
+  > De 2e get zorgt aan de hand van een query parameter dat alle songs en artists van die playlist getoont worden in een lijst.<br />
+  > Ten slotte is er nog een POST. Deze zorgt ervoor dat je zelf nog songs kan toevoegen aan een playlist.  <br />
   
   > De stijl van mijn front-end heb ik geprobeert te baseren op de stijl dat Spotify® gebruikt in hun app & website.
  
