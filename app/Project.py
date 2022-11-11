@@ -10,7 +10,7 @@ origins = [
     "http://127.0.0.1:8000",
     "http://localhost:63342",
     "http://127.0.0.1:63342",
-    "https://projectapidev-sasrobbe.cloud.okteto.net/",
+    "https://projectapidev-sasrobbe.cloud.okteto.net",
     "https://sasrobbe.github.io"
 ]
 
