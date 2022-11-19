@@ -238,10 +238,10 @@ async def return_playlist(
 
 # gets all songs of a specific artist from the data defined above
 @app.get("/artist/{getArtist}")
-async def return_songs_of_artist(get_artist: str):
+async def return_songs_of_artist(getArtist: str):
     songs2 = []
     for y in range(len(spotify_list)):
-        if get_artist == spotify_list[y]['artist']:
+        if getArtist == spotify_list[y]['artist']:
             artist_songs = {}
             artist_songs["songName"] = spotify_list[y]['songName']
             artist_songs["artist"] = spotify_list[y]['artist']
