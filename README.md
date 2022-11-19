@@ -5,6 +5,7 @@
   >
   > De eerste GET zorgt ervoor dat er een willekeurige songs wordt gekozen uit een lijst met songs, artists en hun bijhorende platylist.<br />
   > De 2e get zorgt aan de hand van een query parameter dat alle songs en artists van die playlist getoont worden in een lijst.<br />
+  > De laatste get zorgt aan de hand van een path parameter dat alle songs van een bepaalde artiest getoont wordt in een lijst.<br />
   > Ten slotte is er nog een POST. Deze zorgt ervoor dat je zelf nog songs kan toevoegen aan een playlist.  <br />
   >  
   > De stijl van mijn front-end heb ik geprobeert te baseren op de stijl dat Spotify® gebruikt in hun app & website.
