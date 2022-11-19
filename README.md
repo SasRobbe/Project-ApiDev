@@ -1,7 +1,7 @@
 # **ReadMe Project-ApiDev**
 ## _Robbe Sas 2ccs01_
 * ### gekozen thema
-  > Ik heb ervoor gekozen om een API te schrijven rond Spotify®. Muziek is een van mijn hobbies waar ik enorm veel rust in kan vinden. Hierdoor leek het me dus een leuk idee om hier een API rond te schrijven. Ik heb 2 GET's en 1 POST aangemaakt.
+  > Ik heb ervoor gekozen om een API te schrijven rond Spotify®. Muziek is een van mijn hobbies waar ik enorm veel rust in kan vinden. Hierdoor leek het me dus een leuk idee om hier een API rond te schrijven. Ik heb 3 GET's en 1 POST aangemaakt.
   >
   > De eerste GET zorgt ervoor dat er een willekeurige songs wordt gekozen uit een lijst met songs, artists en hun bijhorende platylist.<br />
   > De 2e get zorgt aan de hand van een query parameter dat alle songs en artists van die playlist getoont worden in een lijst.<br />
@@ -14,6 +14,7 @@
     * [Oketo endpoint](https://projectapidev-sasrobbe.cloud.okteto.net/)
     * [Oketo endpoint shuffle](https://projectapidev-sasrobbe.cloud.okteto.net/spotify)
     * [Oketo endpoint playlist](https://projectapidev-sasrobbe.cloud.okteto.net/playlists?playlist=Ye%20arc)
+    * [Oketo endpoint artist]https://projectapidev-sasrobbe.cloud.okteto.net/artist/Joji)
   * #### front-end GitHub repo
     * [front-end repo](https://github.com/SasRobbe/SasRobbe.github.io)
   * ### back-end GitHub repo
@@ -25,7 +26,7 @@
     * [post page](https://sasrobbe.github.io/spotifyPost)
 
 * ### Screenshot OpenAPI-docs
-![Image api docs](https://i.imgur.com/EWogwPc.png)
+![Image api docs](https://i.imgur.com/5ljEQ6Q.png)
 * ### Postman screenshots
   * #### Spotify get
   ![Spotify get](https://i.imgur.com/WFB70e9.png)
@@ -33,3 +34,5 @@
   ![Spotify post](https://i.imgur.com/KSFYEf5.png)
   * #### Playlist get
   ![Playlist get](https://i.imgur.com/ZAcchTR.png)
+  * ### Artist get
+  ![Playlist get](https://i.imgur.com/12g8djE.png)
