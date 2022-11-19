@@ -24,6 +24,7 @@
     * [index page](https://sasrobbe.github.io/)
     * [shuffle page](https://sasrobbe.github.io/spotifyShuffle)
     * [playlist page](https://sasrobbe.github.io/spotifyPlaylists)
+    * [artist page](https://sasrobbe.github.io/spotifyArtist)
     * [post page](https://sasrobbe.github.io/spotifyPost)
 
 * ### Screenshot OpenAPI-docs
