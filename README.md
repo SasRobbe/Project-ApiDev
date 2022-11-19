@@ -14,7 +14,7 @@
     * [Oketo endpoint](https://projectapidev-sasrobbe.cloud.okteto.net/)
     * [Oketo endpoint shuffle](https://projectapidev-sasrobbe.cloud.okteto.net/spotify)
     * [Oketo endpoint playlist](https://projectapidev-sasrobbe.cloud.okteto.net/playlists?playlist=Ye%20arc)
-    * [Oketo endpoint artist]https://projectapidev-sasrobbe.cloud.okteto.net/artist/Joji)
+    * [Oketo endpoint artist](https://projectapidev-sasrobbe.cloud.okteto.net/artist/Joji)
   * #### front-end GitHub repo
     * [front-end repo](https://github.com/SasRobbe/SasRobbe.github.io)
   * ### back-end GitHub repo
